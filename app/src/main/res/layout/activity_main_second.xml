@@ -3,9 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
+    android:layout_margin="12dp"
     android:gravity="start"
-    android:layout_margin="20dp"
+    android:orientation="vertical"
     tools:context=".MainActivitySecond">
 
     <EditText
@@ -50,5 +50,12 @@
         android:layout_height="wrap_content"
         android:hint="@string/dateH"
         android:inputType="text|date" />
+
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#228BC34A"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#7AFF9800" />
 
 </LinearLayout>
