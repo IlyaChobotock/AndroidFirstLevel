@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">36sp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="editTextSize">22sp</dimen>
+    <dimen name="buttonTextSize">36sp</dimen>
+    <dimen name="marginTextView">40dp</dimen>
+</resources>
