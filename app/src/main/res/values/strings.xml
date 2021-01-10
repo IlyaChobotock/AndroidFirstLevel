@@ -5,4 +5,11 @@
     <string name="push">Push</string>
     <string name="slide">Slide me</string>
     <string name="hint">Hint text</string>
+    <string name="textH">Text</string>
+    <string name="nameH">Name</string>
+    <string name="phoneH">Phone</string>
+    <string name="numberH">Number</string>
+    <string name="passwordH">Password</string>
+    <string name="mailH">E-mail</string>
+    <string name="dateH">Date</string>
 </resources>
